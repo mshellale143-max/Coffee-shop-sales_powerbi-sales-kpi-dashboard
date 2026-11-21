@@ -1,9 +1,9 @@
-# Coffee Shop Sales Analytics (Feb 2023)
+# Coffee Shop Sales Analytics 
 
 ## Overview
 An interactive sales analytics dashboard and SQL/BI reporting breakdown tracking coffee shop performance across store locations, product categories, day types (weekday vs. weekend), and hourly traffic.
 
-## Key Highlights (Feb 2023)
+## Key Highlights 
 - **Total Sales:** $76K (-6.8% / -$5.5K vs. Last Month)
 - **Total Orders:** 16,359 (-5.5% / -1.2K vs. Last Month)
 - **Total Quantity Sold:** 23,550 (-5.3% / -1.3K vs. Last Month)
